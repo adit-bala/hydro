@@ -1,3 +1,4 @@
+pub mod akd;
 pub mod chat;
 pub mod compartmentalized_paxos;
 pub mod compute_pi;
